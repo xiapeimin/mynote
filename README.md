@@ -1,1 +1,1 @@
-# mynote
+# jsnotepad
